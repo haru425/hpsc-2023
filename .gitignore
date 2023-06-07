@@ -1,3 +1,4 @@
 output
 a.out
 job.sh
+*.o
